@@ -1,4 +1,4 @@
-# Hi, I'm Bernardo 👋 | Olá, me chamo Bernardo 👋
+# Hey, I'm Bernardo 👋 | Olá, me chamo Bernardo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--zapelini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-zapelini/)
 [![Email](https://img.shields.io/badge/Email-bernardozplz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardozplz@gmail.com)
@@ -18,57 +18,57 @@
 
 ## 🇺🇸 English
 
-**Software Engineering student & web developer** from Jaraguá do Sul, Santa Catarina, Brazil.
+I'm a **Software Engineering student and web developer** from Jaraguá do Sul, Santa Catarina, Brazil.
 
-I build scalable and robust applications, from front-end to back-end, and I love learning new technologies fast.
+I love building apps that are solid and ready to grow, from front-end to back-end, and I pick up new tech pretty fast.
 
-### 🚀 About me
+### 🚀 A bit about me
 
 - 🎓 Studying **Software Engineering** at Univille (2025 – 2028)
-- 🛠️ Technical degree in **Systems Development** from SESI SENAI (2023 – 2024)
+- 🛠️ Finished my technical course in **Systems Development** at SESI SENAI (2023 – 2024)
 - 💼 Software Developer at **WEG** (SharePoint, Power Apps, and RPA)
-- 🌱 Always looking for ways to improve and learn something new
-- 🤝 I enjoy working in a team
-- 🌎 Languages: Portuguese (native) and English (intermediate, and improving every day!)
+- 🌱 Always trying to get better and learn new stuff
+- 🤝 I really enjoy working with a team
+- 🌎 Languages: Portuguese (native) and English (intermediate, getting better every day!)
 
-### 💼 Experience
+### 💼 What I did at work
 
 **Software Developer, WEG** (Oct 2024 – Sep 2025)
-- Maintained and improved SharePoint, fixing bugs and adding new pages with React.js
-- Built apps with Microsoft Power Apps to optimize daily activities
-- Developed RPAs to automate repetitive processes
+- Took care of SharePoint: fixed bugs, made improvements, and added new pages with React.js
+- Built apps with Microsoft Power Apps to make daily tasks easier
+- Created RPAs to automate boring, repetitive processes
 
-### 📫 Let's connect
+### 📫 Let's talk!
 
-I'm open to new opportunities and to learning with other developers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bernardo-zapelini/) or by [email](mailto:bernardozplz@gmail.com)!
+I'm always up for new opportunities and for learning with other devs. Drop me a message on [LinkedIn](https://www.linkedin.com/in/bernardo-zapelini/) or send me an [email](mailto:bernardozplz@gmail.com)!
 
 ---
 
 ## 🇧🇷 Português (Brasil)
 
-**Estudante de Engenharia de Software e desenvolvedor web** de Jaraguá do Sul, Santa Catarina, Brasil.
+Sou **estudante de Engenharia de Software e desenvolvedor web**, de Jaraguá do Sul, Santa Catarina.
 
-Crio aplicações escaláveis e robustas, do front-end ao back-end, e adoro aprender novas tecnologias rapidamente.
+Curto criar aplicações sólidas e prontas pra crescer, do front-end ao back-end, e aprendo tecnologias novas bem rápido.
 
-### 🚀 Sobre mim
+### 🚀 Um pouco sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na Univille (2025 – 2028)
-- 🛠️ Técnico em **Desenvolvimento de Sistemas** pelo SESI SENAI (2023 – 2024)
+- 🛠️ Formado no técnico de **Desenvolvimento de Sistemas** no SESI SENAI (2023 – 2024)
 - 💼 Desenvolvedor de Software na **WEG** (SharePoint, Power Apps e RPA)
-- 🌱 Sempre buscando evoluir e aprender algo novo
-- 🤝 Gosto de trabalhar em equipe
-- 🌎 Idiomas: Português (nativo) e Inglês (intermediário, e melhorando a cada dia!)
+- 🌱 Sempre buscando evoluir e aprender coisas novas
+- 🤝 Gosto muito de trabalhar em equipe
+- 🌎 Idiomas: Português (nativo) e Inglês (intermediário, melhorando a cada dia!)
 
-### 💼 Experiência
+### 💼 O que fiz no trabalho
 
 **Desenvolvedor de Software, WEG** (Out 2024 – Set 2025)
-- Manutenção do SharePoint, com melhorias, correção de erros e criação de novas páginas com React.js
-- Desenvolvimento de aplicativos com Microsoft Power Apps para otimizar atividades
-- Desenvolvimento de RPAs para automatizar processos repetitivos
+- Cuidei do SharePoint: corrigi erros, fiz melhorias e criei páginas novas com React.js
+- Criei aplicativos com Microsoft Power Apps pra facilitar as tarefas do dia a dia
+- Desenvolvi RPAs pra automatizar processos repetitivos e chatos
 
-### 📫 Vamos conversar
+### 📫 Bora conversar!
 
-Estou aberto a novas oportunidades e a aprender com outros desenvolvedores. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/bernardo-zapelini/) ou por [e-mail](mailto:bernardozplz@gmail.com)!
+Estou sempre aberto a novas oportunidades e a aprender com outros devs. Me chama no [LinkedIn](https://www.linkedin.com/in/bernardo-zapelini/) ou manda um [e-mail](mailto:bernardozplz@gmail.com)!
 
 ---
 
