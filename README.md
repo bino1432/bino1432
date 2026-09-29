@@ -69,11 +69,3 @@ Curto criar aplicações sólidas e prontas pra crescer, do front-end ao back-en
 ### 📫 Bora conversar!
 
 Estou sempre aberto a novas oportunidades e a aprender com outros devs. Me chama no [LinkedIn](https://www.linkedin.com/in/bernardo-zapelini/) ou manda um [e-mail](mailto:bernardozplz@gmail.com)!
-
----
-
-## 📊 GitHub stats
-
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bino1432&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bino1432&layout=compact&theme=tokyonight&hide_border=true)
