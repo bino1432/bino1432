@@ -1,4 +1,4 @@
-# Hi, I'm Bernardo 👋 | Olá, eu sou o Bernardo 👋
+# Hi, I'm Bernardo 👋 | Olá, me chamo Bernardo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--zapelini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-zapelini/)
 [![Email](https://img.shields.io/badge/Email-bernardozplz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardozplz@gmail.com)
